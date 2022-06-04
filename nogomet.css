@@ -1,0 +1,716 @@
+*{
+	margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*.box{
+    display: block;
+    justify-content: space-between;
+}*/
+
+#opcenitoonogometu {
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    margin-top: -15px;
+    margin-left: 40px; 
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+}
+h1, h2, h3, h4, h5{
+    font-family: 'Raleway', sans-serif;
+}
+
+#slikaopcenito{
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+
+#povijestnogometa{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-top: -622px;
+    margin-right: -40px;
+    margin-left: 580px;
+}
+
+#slikapovnog{
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 580px;
+}
+
+#suvremenaigra{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-top: -300px;
+    margin-left: 40px;
+}
+
+#slikasuvremenaigra{
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#ulaznice{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-top: -450px;
+    margin-right: -40px;
+    margin-left: 580px;
+}
+
+#ulaznice1{
+    width: 70px;
+}
+
+#rodendan{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-top: 30px;
+    margin-left: 580px;
+}
+#rodendan1{
+    width: 70px;
+}
+
+#pravila{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-top: -90px;
+    margin-right: -40px;
+    margin-left: 40px;
+}
+
+#igraliste{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-top: 10px;
+    margin-right: -40px;
+    margin-left: 40px;
+}
+
+#slikateren{
+    width: 500px;
+    margin-top: -490px;
+    margin-left: 580px;
+    margin-right: -40px;
+    margin-bottom: 200px;
+
+}
+
+#oprema{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-top: -80px;
+    margin-right: -40px;
+    margin-left: 40px;
+}
+
+#slikadres{
+    width: 500px;
+    margin-top: -490px;
+    margin-left: 580px;
+    margin-right: -40px;
+    margin-bottom: 200px;
+}
+
+#stadion{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 41px;
+    margin-top: -550px;
+}
+
+#stadion1{
+    width: 70px;
+}
+
+#slikasudenje{
+    width: 500px;
+    margin-left: 41px;
+    margin-top: -630px;
+}
+
+#sudenje{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: -190px;
+}
+
+#prekrsaji{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: 330px;
+}
+
+#kartoni{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: -10px;
+}
+
+#slikakartoni1{
+    margin-left: 41px;
+    margin-top: -370px;
+}
+
+#slikakartoni1{
+    width: 500px;
+}
+
+#slobodniudarac{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: -20px;
+}
+
+#zalede{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 41px;
+    margin-top: -270px;
+}
+
+#igraci1{
+    margin-left: 580px;
+    margin-top: -140px;
+}
+
+#arsenal{
+    width: 245px;
+}
+
+#igraci2{
+    margin-left: 835px;
+    margin-top: -248px;
+}
+
+#barcelona{
+    width: 245px;
+}
+
+#igraci3{
+    margin-left: 580px;
+    margin-top: 8px;
+}
+
+#borussia{
+    width: 245px;
+}
+
+#igraci4{
+    margin-left: 835px;
+    margin-top: -248px;
+}
+
+#chelsea{
+    width: 245px;
+}
+
+#vracanjelopte{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 41px;
+    margin-top: -360px;
+}
+
+#pocetniudarac{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 41px;
+    margin-top: 30px;
+}
+
+#golaut{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+
+#udaracizkuta{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+
+#igraci5{
+    margin-left: 41px;
+    margin-top: -345px;
+}
+
+#nkravnice{
+    width: 245px;
+}
+
+#igraci6{
+    margin-left: 295px;
+    margin-top: -248px;
+}
+
+#porto{
+    width: 245px;
+}
+
+#igraci7{
+    margin-left: 41px;
+    margin-top: 7px;
+}
+
+#rbleipzig{
+    width: 245px;
+}
+
+#igraci8{
+    margin-left: 295px;
+    margin-top: -249px;
+}
+
+#zenit{
+    width: 245px;
+}
+
+#igraci9{
+    margin-left: 41px;
+    margin-top: 8px;
+}
+
+#westbrom{
+    width: 245px;
+}
+
+#igraci10{
+    margin-left: 295px;
+    margin-top: -248px;
+}
+
+#inter{
+    width: 245px;
+}
+
+#igraci11{
+    margin-left: 41px;
+    margin-top: -157px;
+}
+
+#panorama{
+    width: 500px;
+    height: 158px;
+}
+
+#aut{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: -390px;
+}
+
+#slobodniudarci{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+
+#trofej{
+    background-color: white;
+    width: 470px;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.3;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+#trofej1{
+    width: 80px;
+}
+
+a#link{
+    letter-spacing: 1px;
+	text-decoration: none;
+	font-weight: 300;
+	color: #FFFFFF;	
+	margin-top: -30px;
+    padding: 7px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+	background: #327fa3;
+	display: inline-block;
+}
+
+a#link:hover{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    padding: 7px 30px;
+    color: white;
+
+}
+
+html{
+    background-color: darkolivegreen;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: black;
+    background-color: rgba(149, 209, 130, 0.582);
+    width: 1121px;
+    margin: 0 auto;
+}
+
+/*ol{
+	list-style-type: lower-roman;
+	padding: 20px;
+}*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
+  
+li a:active {
+    background-color: white;
+}
+
+h1 {
+	font-weight: 200;
+}
+
+ul {
+	line-height: 150%;
+}
+
+
+a:hover {
+	color: #88c754;
+	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
+    text-decoration: none;
+}
+
+a img {
+    border: none;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 550px;
+    left: 1242px;
+    width: 35px;
+}
+
+header {
+	overflow: hidden;
+	height: 200px;
+    background-image:url("images/svjetlozelena.jpg") ;
+    margin: 0;
+}
+
+h1#logonogomet {
+	/*position: inherit;*/
+	color:white;
+	padding: 50px 0px 0px 0px;
+    background: url("images/igraliste.jpg") no-repeat left 50%;
+	letter-spacing: -2px;
+    font-size: 3.6em;
+    margin-left: 50px;
+}
+
+/*h1#logo a {
+	text-decoration: none;
+	color: #FFFFFF;
+}*/
+
+#zaglavlje {
+	/*position: relative;
+	top: -50px;
+    left: 870px;*/
+    margin-top: -50px;
+    margin-left: 865px;
+	width: 250px;
+	height: 80px;
+	color: white;
+}
+
+input[type="text"], input[type="password"] {
+	width:200px;
+}
+
+#kontakt{
+    margin-left: 710px;
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+a#kontakt:visited{
+    color: darkgreen;
+}
+
+a#kontakt:hover{
+    color: #111;
+}
+
+a#kontakt:active{
+    color: royalblue;
+}
+#onama{
+    position: relative;
+    left: -200px;
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-style: normal;
+}
+a#onama:visited{
+    color: darkgreen;
+}
+
+a#onama:hover{
+    color: #111;
+}
+#novosti{
+    position: relative;
+    left: -400px;
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-style: normal;
+}
+a#novosti:visited{
+    color: darkgreen;
+}
+
+a#novosti:hover{
+    color: #111;
+}
+
+/*input[type="submit"], input[type="reset"] {
+	padding:0 3px;
+}*/
+
+/*#broj1 {
+	background: #FFFFFF;
+	padding: 40px 0;
+	height: 500px;
+	color: #717171;
+}*/
+
+#tablica {
+    margin-left: 150px;
+    text-align: center;
+    background-color: rgba(255, 255, 240, 0.712);
+    margin-top: -5px;
+}
+
+#zastava{
+    width: 27px;
+    padding-top: 5px;
+}
+
+#logojuventus{
+    width: 20px;
+    padding: 5px;
+}
+
+#logomilan{
+    width: 90px;
+    padding: 5px;
+}
+
+#logoroma{
+    width: 35px;
+    padding: 5px;
+}
+
+#logorbleipzig{
+    width: 55px;
+    padding: 5px;
+}
+
+#logospartak{
+    width: 60px;
+    padding: 5px;
+}
+
+#logoatletico{
+    width: 35px;
+    padding: 5px;
+}
+
+#logo1{
+    width: 45px;
+    padding: 5px;
+}
+
+#logo{
+    width: 40px;
+    padding: 5px;
+}
+
+
+footer {
+	height: 100px;
+	/*margin: 0 auto;*/
+	padding: 50px 0px;
+	background-image:url("images/svjetlozelena.jpg");
+}
+
+footer p {
+	letter-spacing: 1px;
+	line-height: normal;
+	text-align: center;
+	color: #FFFFFF;
+	/*position:relative;
+	top: -40px;
+    left: 650px;*/
+    margin-top: -60px;
+    margin-left: 650px;
+	width: 350px;
+	height: 100px;
+}
+
+#prijava {
+    /*text-align: center*/
+    /*position:relative;
+	top: 5px;
+    left: 150px;*/
+    letter-spacing: 1px;
+	line-height: 20px;
+    margin-top: 5px;
+    margin-left: 150px;
+    color: white;
+}
