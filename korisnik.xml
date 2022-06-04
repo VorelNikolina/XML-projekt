@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user_list>
+<user>
+	<username>nvorel</username>
+	<password>12345</password>
+	<ime>Nikolina</ime>
+    <prezime>Vorel</prezime>
+	
+</user>
+<user>
+	<username>asimec</username>
+	<password>12345</password>
+	<ime>Alen</ime>
+    <prezime>Šimec</prezime>
+</user>
+</user_list>
